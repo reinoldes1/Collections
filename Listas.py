@@ -51,7 +51,3 @@ def faz_processamento_de_visualizacao(lista = None):
     print(len(lista))
     print(lista)
     lista.append(13)
-
-teste = faz_processamento_de_visualizacao
-
-print (teste)
